@@ -1,2 +1,5 @@
 # Capi360.github.io
-Capi360.github.io School project website
+
+Portofolio Website
+accessible on Capi360.github.io
+
